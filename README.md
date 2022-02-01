@@ -1,3 +1,30 @@
+
+### Tips Calculator App
+
+Tips Calculator is build using React framework(react hooks) and TypeScript.
+App calculates tips and total cost of the bill per person.
+
+In order to interact with the application, please follow the link - https://angry-panini-45fd2b.netlify.app
+
+Link po project Github repo - https://github.com/TatjanaBo/tips_calculatror
+
+![My Image](desktop.png)
+
+![My Image](mobile.png)
+
+![Alt text](app.gif)
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
