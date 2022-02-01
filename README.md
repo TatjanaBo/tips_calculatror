@@ -14,17 +14,6 @@ Link po project Github repo - https://github.com/TatjanaBo/tips_calculatror
 
 ![Alt text](app.gif)
 
-
-
-
-
-
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
